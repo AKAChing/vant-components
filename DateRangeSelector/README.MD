@@ -7,7 +7,7 @@
   import { DateRangeSelector } from './index.vue'
 ```
 
-> 手动选择 [在线Demo](https://codepen.io/zhengqingfeng/pen/ZNazqo)
+> 快捷选择 [在线Demo](https://codepen.io/zhengqingfeng/pen/ZNazqo)
 
 ``` html
   <van-button @click="open">打开组件</van-button>
@@ -18,7 +18,7 @@
   </date-range-selector>
 ```
 
-> 快捷选择 [在线Demo](https://codepen.io/zhengqingfeng/pen/wbPQbj)
+> 手动选择 [在线Demo](https://codepen.io/zhengqingfeng/pen/wbPQbj)
 
 ``` html
   <van-button @click="open">打开组件</van-button>
