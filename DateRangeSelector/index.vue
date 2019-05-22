@@ -47,7 +47,8 @@
 </template>
 
 <script>
-import { getTimeRange } from "@/utils";
+// https://raw.githubusercontent.com/ZhengQingFeng/fed-code-snippets/master/Time/index.js
+import { getDateRange } from "@/utils";
 export default {
   name: "date-range-selector",
   data() {
@@ -101,7 +102,7 @@ export default {
     },
     selectShorcut(item) {
       this.groupVisible = false;
-      this.$emit("get-date-range", getTimeRange(item.num));
+      this.$emit("get-date-range", getDateRange(item.num));
     }
   }
 };
