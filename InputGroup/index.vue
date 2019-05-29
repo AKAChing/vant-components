@@ -74,7 +74,7 @@ import {
   isIncludesDot,
   isLongerThan,
   isShorterThan
-} from "@/utils";// https://raw.githubusercontent.com/ZhengQingFeng/fed-code-snippets/master/Rexp/index.js
+} from "@/utils";// https://raw.githack.com/ZhengQingFeng/fed-code-snippets/master/Rexp/index.js
 export default {
   name: "input-group-container",
   data() {

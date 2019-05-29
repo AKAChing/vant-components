@@ -47,7 +47,7 @@
 </template>
 
 <script>
-// https://raw.githubusercontent.com/ZhengQingFeng/fed-code-snippets/master/Time/index.js
+// https://raw.githack.com/ZhengQingFeng/fed-code-snippets/master/Time/index.js
 import { getDateRange } from "@/utils";
 export default {
   name: "date-range-selector",
